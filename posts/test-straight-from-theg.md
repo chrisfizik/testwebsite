@@ -1,8 +1,9 @@
 ---
 layout: post
 title: maybe github is the cms
-date: 04/08/2020
-summary: this is the excerpt. 
+date: 2020-04-08T20:00:00.000Z
+thumbnail: /img/template.jpg
+summary: this is the excerpt.
 ---
 
 So the thing about netlifycms is having to tack that extra interface onto the 11ty system and then define everything about the UI *myself*? So much work.  
