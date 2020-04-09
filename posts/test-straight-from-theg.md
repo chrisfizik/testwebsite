@@ -1,7 +1,7 @@
 ---
 layout: post
 title: maybe github is the cms
-date: 2020-04-08
+date: 04/08/2020
 summary: this is the excerpt. 
 ---
 
