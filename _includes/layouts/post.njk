@@ -2,8 +2,14 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
-<h1>{{ title }}</h1>
-
-{{ content | safe }}
+<section>
+  <div class="image main" data-position="center">
+    <img src="{{ thumbnail }}" alt="" />
+  </div>
+  <div class="container">
+    <h2>{{ title }}</h2>
+    {{ content | safe }}
+  </div>
+</section>
 
 <p><a href="{{ '/' | url }}">← Home</a></p>
